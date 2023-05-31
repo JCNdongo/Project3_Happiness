@@ -15,7 +15,9 @@ Freedom.csv (2023 Heritage Foundation Economic Freedom data retrieved from https
 
 Links to Github pages with interactive bar charts:
 
-Happiness Scores by Country: https://jcndongo.github.io/happinessline.github.io/Happiness_LINE_index.html
+Happiness Scores by Country: 
+https://jcndongo.github.io/happinessline.github.io/Happiness_LINE_index.html
+https://jcndongo.github.io/happinessbar.github.io/Happiness_BAR_index.html
 
 Social support and corruption indexes for Bottom 6 countries based on Happiness Scores: https://jcndongo.github.io/bottom6countries.github.io/BOTTOM6_index.html
 
